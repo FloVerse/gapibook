@@ -13,14 +13,6 @@ Une application web simple développée avec **Vue.js**, permettant de recherche
 - Affichage détaillé du livre sélectionné
 - Affichage de la liste des résultats
 
-## 🖥Aperçu
-
-| Page d'accueil avec recherche et filtres |
-|:----------------------------------------:|
-| ![Aperçu](docs/screenshot_home.png)     |
-
-*(Pense à ajouter une capture d'écran du rendu dans `docs/`)*
-
 ## Structure
 
 ### Composant principal : `App`
